@@ -6,8 +6,8 @@ spring:
   rabbitmq:
     host: 186.61.138.22
     port: 5671
-    username: guest
-    password: guest
+    username: root
+    password: root
 
 #暴露全部的监控信息
 management:
