@@ -10,7 +10,7 @@ spring:
     password: guest
   redis:
     database: 0
-    host: 172.18.230.234
+    host: localhost
     port: 6379
     timeout: 2000
 #zipkin服务所在地址
